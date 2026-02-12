@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "HINOTORI (2021 Remaster)",
+  "base_artist": "Hilcrhyme",
+  "createdAt": "2026-02-12T08:14:20.547628Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HINOTORI",
+      "artist": "小鳥遊キアラ",
+      "has_synced": false,
+      "path": "select/01_HINOTORI_小鳥遊キアラ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HINOTORI",
+      "artist": "小鳥遊キアラ",
+      "has_synced": true,
+      "path": "select/02_HINOTORI_小鳥遊キアラ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hinotori",
+      "artist": "Hilcrhyme",
+      "has_synced": false,
+      "path": "select/03_Hinotori_Hilcrhyme.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hinotori",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/04_Hinotori_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HINOTORI",
+      "artist": "Takanashi Kiara",
+      "has_synced": true,
+      "path": "select/05_HINOTORI_Takanashi_Kiara.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HINOTORI",
+      "artist": "Takanashi Kiara",
+      "has_synced": false,
+      "path": "select/06_HINOTORI_Takanashi_Kiara.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "hinotori (off vocal)",
+      "artist": "小鳥遚キアラ",
+      "has_synced": true,
+      "path": "select/07_hinotori_(off_vocal)_小鳥遚キアラ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HINOTORI",
+      "artist": "Hilcrhyme",
+      "has_synced": false,
+      "path": "select/pl_01_HINOTORI_Hilcrhyme.txt"
+    }
+  ]
+}
