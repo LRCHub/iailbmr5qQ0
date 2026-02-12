@@ -1,0 +1,51 @@
+# Hilcrhyme – HINOTORI (2021 Remaster)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:13.21] 瞬く 星のゆりかご 欠けた台詞を
+[00:20.18] 繋ぎ合わせた Memory
+[00:24.07] 聖なる従者が伝う 神話の理
+[00:31.19] 祈りに耳を澄ませ
+[00:35.19] 
+[00:35.51] Tell me, I can hear it clearly
+[00:38.40] Tell me 声なき声に
+[00:41.72] 荒ぶる鼓動は 弱さを焦がす
+[00:48.22] 
+[00:48.69] 炎降り注ぐ空に 身を窶して
+[00:54.76] 乱れ咲く赤は 紅化粧
+[00:59.42] 数多 重なる試煉も
+[01:02.93] 生き抜いてみせる
+[01:05.65] I will live to keep on fighting till the dawn
+[01:28.15] 
+[01:21.60] たとえば 先の見えない 零の境界
+[01:28.61] 迷い込んだとしても
+[01:32.64] 何度も 繰り返される 孤高の終焉
+[01:39.50] そこに残った Answer
+[01:46.00] 
+[01:44.04] Don't break, I will never give up
+[01:46.92] Don't break 羽が朽ちても
+[01:50.37] 消せない強さは 時の導
+[01:55.87] 
+[01:57.11] 灰花舞い上がる大地 身をくぐらせ
+[02:03.33] 燃ゆる朱の中 目を覚ます
+[02:08.02] 刃 交わる切先 交わした契りは
+[02:14.33] Lies and truth, come to light at the break of day
+[02:38.83] 
+[02:19.11] I've been trying to find my destiny
+[02:24.64] But they keep pushing and pulling me astray
+[02:30.19] If I go wrong, what awaits me in the dark
+[02:35.80] Could you tell me please, where I need to go?
+[02:58.30] 
+[02:52.88] Tell me, I can hear it clearly
+[02:55.48] Tell me 声なき声に
+[02:58.95] 漲る決意は 暗闇を晴らす
+[03:04.95] 
+[03:05.74] 炎降り注ぐ空に 身を窶して
+[03:11.89] 乱れ咲く赤は 紅化粧
+[03:16.84] 数多 重なる試煉も
+[03:20.11] 生き抜いてみせる
+[03:22.89] Blazing flames, show me the path to luminance
+[03:27.55] And in the next life too
+[03:29.52] I promise, I will find you
+```
